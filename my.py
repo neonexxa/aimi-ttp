@@ -5,7 +5,7 @@ from firebase import firebase
 
 lightpin   = 7
 
-firebase = firebase.FirebaseApplication('https://ttp-rpi2-python-laravel.firebaseio.com',None)
+firebase = firebase.FirebaseApplication('https://testinghaha-f3c61.firebaseio.com',None)
 
 def setup():
   GPIO.setmode(GPIO.BOARD)       # Numbers GPIOs by physical location
